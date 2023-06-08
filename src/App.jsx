@@ -5,7 +5,8 @@ import Storage from "./components/Storage";
 function App() {
   return (
     <>
-      <h1>hello firebase</h1>
+      <h1>Deployed on firebase hosting</h1>
+      <p>featuring: Auth, Firestore and Storage</p>
       <hr />
       <Auth />
       <hr />
